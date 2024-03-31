@@ -6,8 +6,6 @@
 ## Education
 - B.Bus., Economics and Finance | RMIT Vietnam (_March 2025_)								       		
 - CPE., Data Science | NASBA  (_April 2025_)	 	
-		        		
-## Certifications
 - IELTS 7.0 | IDP Education (_January 2021_)								       		
 	
 ## Work Experience
