@@ -1,8 +1,8 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, R, Power BI, MongoDB
-#### Financial Skills: Market Analysis,Budgeting & Reporting,Micro-Macro Valuation 
 #### Soft Skills: MS Office, Canva, GenAI, Figma
+### Publication Name: Anh Q. Nguyen 
 
 ## Education
 - B.Bus., Economics and Finance | RMIT Vietnam (_March 2025_)								       		
