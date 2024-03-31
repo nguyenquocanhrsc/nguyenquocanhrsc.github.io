@@ -11,36 +11,28 @@
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Developed hybrid ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning models and patients for Zksnark implementation to protect healthcare data transmission.
-- Pitched idea to the board, managed cross-major projects, organized weekly meetings between researchers, and generated mathematical reports/notations for research papers. 
+- Pitched idea to the board, managed cross-major projects, organised weekly meetings between researchers, and generated mathematical reports/notations for research papers. 
 
 **Academic and Communication English Tutor @ Freelance (February 2021 - November 2022_)**
 - 1:1 tutoring for 7 students  (2 Onsite and 5 Online); Taught communication English for DM&C’s Korean CEO and a Japanese.  
-- Focused on IELTS Academic training (Reading, Writing, and Speaking) and designed personalized study plans for each individual.
-- 100% students achieved their expected band score overall (1 Bronze medal in National English Test).
+- Focused on IELTS Academic training (Reading, Writing, and Speaking) and designed personalised study plans for each individual.
+- 100% students achieved their expected band score overall (1 Bronze medal in the National English Test for the Gifted).
 
 ## Projects
 ### Phase Space Reconstructed Hybrid Deep Learning Model for Stock Price Forecasting
 [[Publication](https://dx.doi.org/10.2139/ssrn.4729759)] [[Poster](https://drive.google.com/file/d/17MK5haNZRQVOfrIkB0W8WmQ2xbV5spam/view)] [[Presentation](https://drive.google.com/file/d/1zX1CkDwcXVwKcjbFDhl0hmS6ljlWbj6G/view)]
 
-Under the supervision of lecturers in 3 months, a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and time delay for Phase Space Reconstruction was constructed to forecast stock prices of major retailers like Target (TGT), Amazon (AMZN) and Walmart (WMT). The model significantly improved accuracy, reducing MAE by 37.2% and RMSE by 35.1%, showcasing the potential of incorporating Chaos Theory in algorithmic trading strategies. This project was accepted for presentation and abstract publication at Digital3 Conference, RMIT Experience Day (Hanoi and HCMC), RMIT Project Love Meter (winner), and RMIT Showcase: Impact om 2023. A refined version of this project has been submitted to IEEE.
+Under the supervision of lecturers in 3 months, a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and time delay for Phase Space Reconstruction was constructed to forecast stock prices of major retailers like Target (TGT), Amazon (AMZN) and Walmart (WMT). Being trained across 5,300 obs from different stock nature, the model significantly improved accuracy, reducing MAE by 37.2% and RMSE by 35.1%, showcasing the potential of incorporating Chaos Theory in algorithmic trading strategies. This project was accepted for presentation and abstract publication at Digital3 Conference, RMIT Experience Day (Hanoi and HCMC), RMIT Project Love Meter (winner), and RMIT Showcase: Impact om 2023. A refined version of this project has been submitted to IEEE.
 
 
 ![EEG Band Discovery](/assets:img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets:img/bike_study.jpeg)
 
 ## Awards and Honors
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Presenter - Digital3 (D3) International Conference, Fall 2023
+- RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
+- RMIT Showcase: Impact - ICEFMR-2024 Conference, Osaka, Japan, Spring 2024
+- Invited Peer Reviewer - Annals of Operation Research Journal (Q1-2024)
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
