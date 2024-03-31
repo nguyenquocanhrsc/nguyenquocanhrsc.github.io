@@ -1,6 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, R, Power BI, MongoDB
+#### Financial Skills: Market Analysis,Budgeting & Reporting,Micro-Macro Valuation 
 #### Soft Skills: MS Office, Canva, GenAI, Figma
 
 ## Education
