@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Power BI, Mongo DB
+### Technical Skills: Python, SQL, R, Power BI, Mongo DB
 #### Soft Skills: MS Office, Canva, GenAI, Figma
 
 ## Education
@@ -10,9 +10,10 @@
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%
-- Sub-researched on Encryption (homomorphic and symmetric), Blockchain in data privacy, and Federated Learning simulation for Zksnark implementation.
+- Sub-researched on Encryption and Blockchain in data privacy, and Federated Learning simulation for Zksnark implementation to protect healthcare data transmission.
 - Pitched idea to the board, managed cross-major projects, organized weekly meetings between researchers, and generated mathematical reports/notations for papers. 
 
+**Academic English Tutor @ Freelance, Onsite and Online (_January 2021 - November 2022_)**
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
