@@ -10,9 +10,9 @@
 	
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
-- Developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
+- Mined data from web APIs, Developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning models and patients for Zksnark implementation to protect healthcare data transmission.
-- Pitched idea to the board, managed cross-major projects, organised weekly meetings between researchers, and generated mathematical reports/notations for research papers. 
+- Pitched idea to the board, managed weekly projects and meeting, and generated mathematical reports/notations for research papers. 
 
 **Academic and Communication English Tutor @ Freelance (_February 2021 - November 2022_)**
 - 1:1 tutoring for 7 students  (2 Onsite and 5 Online); Taught communication English for DM&C’s Korean CEO and a Japanese.  
