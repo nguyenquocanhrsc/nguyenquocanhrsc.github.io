@@ -27,7 +27,7 @@
 Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and time delay for Phase Space Reconstruction to forecast stock prices of major retailers like Target (TGT), Amazon (AMZN) and Walmart (WMT). Being trained across 16,000 daily observations from different stock nature, the model significantly improved forecasting accuracy, reducing MAE by 37.2% and RMSE by 35.1%, showcasing the potential of incorporating Chaos Theory in algorithmic trading strategies. This project was accepted for presentation and abstract publication at Digital3 Conference, RMIT Experience Day (Hanoi and HCMC), and RMIT Showcase: Impact in 2023. A refined version of this project has been submitted to the IEEE.
 
 
-![EEG Band Discovery](/assets:img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets:img/PSR2.png)
 
 
 ## Awards and Honors
