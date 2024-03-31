@@ -10,7 +10,7 @@
 	
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
-- Mined data from web APIs, Developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
+- Mined data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning models and patients for Zksnark implementation to protect healthcare data transmission.
 - Pitched idea to the board, managed weekly projects and meeting, and generated mathematical reports/notations for research papers. 
 
