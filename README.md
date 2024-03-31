@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Technical Skills: Python, SQL, R, Power BI, Mongo DB
+#### Technical Skills: Python, SQL, R, Power BI, Mongo DB
 #### Soft Skills: MS Office, Canva, GenAI, Figma
 
 ## Education
@@ -9,17 +9,21 @@
 
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
-- Developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%
-- Sub-researched on Encryption and Blockchain in data privacy, and Federated Learning simulation for Zksnark implementation to protect healthcare data transmission.
-- Pitched idea to the board, managed cross-major projects, organized weekly meetings between researchers, and generated mathematical reports/notations for papers. 
+- Developed hybrid ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
+- Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning models and patients for Zksnark implementation to protect healthcare data transmission.
+- Pitched idea to the board, managed cross-major projects, organized weekly meetings between researchers, and generated mathematical reports/notations for research papers. 
 
-**Academic English Tutor @ Freelance, Onsite and Online (_January 2021 - November 2022_)**
+**Academic and Communication English Tutor @ Freelance (February 2021 - November 2022_)**
+- 1:1 tutoring for 7 students  (2 Onsite and 5 Online); Taught communication English for DM&C’s Korean CEO and a Japanese.  
+- Focused on IELTS Academic training (Reading, Writing, and Speaking) and designed personalized study plans for each individual.
+- 100% students achieved their expected band score overall (1 Bronze medal in National English Test).
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Phase Space Reconstructed Hybrid Deep Learning Model for Stock Price Forecasting
+[[Publication](https://dx.doi.org/10.2139/ssrn.4729759)] [[Poster](https://drive.google.com/file/d/17MK5haNZRQVOfrIkB0W8WmQ2xbV5spam/view)] [[Presentation](https://drive.google.com/file/d/1zX1CkDwcXVwKcjbFDhl0hmS6ljlWbj6G/view)]
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Under the supervision of lecturers in 3 months, a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and time delay for Phase Space Reconstruction was constructed to forecast stock prices of major retailers like Target (TGT), Amazon (AMZN) and Walmart (WMT). The model significantly improved accuracy, reducing MAE by 37.2% and RMSE by 35.1%, showcasing the potential of incorporating Chaos Theory in algorithmic trading strategies. This project was accepted for presentation and abstract publication at Digital3 Conference, RMIT Experience Day (Hanoi and HCMC), RMIT Project Love Meter (winner), and RMIT Showcase: Impact om 2023. A refined version of this project has been submitted to IEEE.
+
 
 ![EEG Band Discovery](/assets:img/eeg_band_discovery.jpeg)
 
