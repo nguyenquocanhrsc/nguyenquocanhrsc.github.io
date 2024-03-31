@@ -1,20 +1,18 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, Power BI, Mongo DB
+#### Soft Skills: MS Office, Canva, GenAI, Figma
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.Bus., Economics and Finance | RMIT University Vietnam (_March 2025_)								       		
+- CPE., Data Science | National Association of State Boards of Accountancy (_April 2025_)	 			        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
+- Developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%
+- Sub-researched on Encryption (homomorphic and symmetric), Blockchain in data privacy, and Federated Learning simulation for Zksnark implementation.
+- Pitched idea to the board, managed cross-major projects, organized weekly meetings between researchers, and generated mathematical reports/notations for papers. 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -31,7 +29,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets:img/bike_study.jpeg)
 
-## Talks & Lectures
+## Awards and Honors
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
