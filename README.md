@@ -43,15 +43,15 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ## Publications
 
-1. Nguyen A, Ha S, and Phien N (2024) ‘A Lightweight Multi-Head Attention Transformer for Stock Price Forecasting’, SSRN Electronic Journal, 1(1):1-16, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729648)
+1. Nguyen A, Ha S, and Phien N (2024) ‘A Lightweight Multi-Head Attention Transformer for Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-16, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729648)
 
-2. Nguyen A and Ha S (2024) ‘Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering’, SSRN Electronic Journal, 1(1):1-14, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729146)
+2. Nguyen A and Ha S (2024) ‘Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering’, _SSRN Electronic Journal_, 1(1):1-14, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729146)
 
-3. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM and Time Delay Embedding: A Single-Step Hybrid Deep Learning Model for Stock Price Forecasting’, SSRN Electronic Journal, 1(1):1-21, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729187)
+3. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM and Time Delay Embedding: A Single-Step Hybrid Deep Learning Model for Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-21, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729187)
 
-4. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM-GRU and Phase Space Reconstruction In Retail Stock Price Forecasting’, SSRN Electronic Journal, 1(1):1-22, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729759)
+4. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM-GRU and Phase Space Reconstruction In Retail Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-22, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729759)
 
-5. Nguyen A (2023) ‘Long Short-Term Memory Architectures: Towards a Superlative Tech Stock Price Forecasting Model for Sustainable Economic Prosperity’, In Proceedings of The 9th International Conference for Young Researchers in Economics and Business (ICYREB), 
-ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94, UEH Publishing House. **[[Link to Proceeding](https://drive.google.com/file/d/1XiUSEfra9VufPb-QYQs_l5Nc1UtGMXXd/view)]** [Preprint](https://www.researchgate.net/publication/376721876_Long_Short-Term_Memory_Architectures_Towards_a_Superlative_Tech_Stock_Price_Forecasting_Model_for_Sustainable_Economic_Prosperity)
+5. Nguyen A (2023) ‘Long Short-Term Memory Architectures: Towards a Superlative Tech Stock Price Forecasting Model for Sustainable Economic Prosperity’, In Proceedings of The 9th International Conference for Young Researchers in Economics and Business (ICYREB), _UEH Publishing House_, 
+ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [**[Link to Proceeding](https://drive.google.com/file/d/1XiUSEfra9VufPb-QYQs_l5Nc1UtGMXXd/view)**] [Preprint](https://www.researchgate.net/publication/376721876_Long_Short-Term_Memory_Architectures_Towards_a_Superlative_Tech_Stock_Price_Forecasting_Model_for_Sustainable_Economic_Prosperity)
 
 - [Data Science Blog](https://medium.com/@shawhin)
