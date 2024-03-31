@@ -8,8 +8,8 @@
 - CPE., Data Science | NASBA  (_April 2025_)	 	
 		        		
 ## Certifications
-- IELTS Academic | Band 7.0 (_January 2021)								       		
-- Advanced Python for ML and SQL for Data Analytics | NASBA  (November 2023_)	
+- IELTS 7.0 | IDP Education (_January 2021_)								       		
+- Advanced Python for ML and SQL for Data Analytics | NASBA  (_November 2023_)	
 
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
