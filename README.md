@@ -34,7 +34,7 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 - Presenter - Digital3 (D3) International Conference, Fall 2023
 - RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
 - RMIT Showcase: Impact - Online School Showcase, Spring 2024
-- Invited Speaker - ICEFMR-2024 Conference,, Japan, Spring 2024
+- Invited Speaker - ICEFMR-2024 Conference, Japan, Spring 2024
 - Peer Reviewer - Annals of Operation Research Journal (Q1-2024)
 
 
