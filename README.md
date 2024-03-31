@@ -9,8 +9,7 @@
 		        		
 ## Certifications
 - IELTS 7.0 | IDP Education (_January 2021_)								       		
-- Advanced Python for ML and SQL for DA | NASBA  (_November 2023_)	
-
+	
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Developed hybrid ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
