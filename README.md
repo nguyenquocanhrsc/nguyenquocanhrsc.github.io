@@ -42,14 +42,17 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Neal R (2020) Robo advisors: Best and worst returns over 4 years, FinancialPlanning Website, accessed 30 March 2024. https://www.financial-planning.com/news/robo-advisors-best-and-worst-returns-over-four-years
+
+2. Nguyen A, Ha S, and Phien N (2024) ‘A Lightweight Multi-Head Attention Transformer for Stock Price Forecasting’, SSRN Electronic Journal, 1(1):1-16, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729648)
+
+3. Nguyen A and Ha S (2024) ‘Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering’, SSRN Electronic Journal, 1(1):1-14, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729146)
+
+4. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM and Time Delay Embedding: A Single-Step Hybrid Deep Learning Model for Stock Price Forecasting’, SSRN Electronic Journal, 1(1):1-21, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729187)
+
+5. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM-GRU and Phase Space Reconstruction In Retail Stock Price Forecasting’, SSRN Electronic Journal, 1(1):1-22, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729759)
+
+6. Nguyen A (2023) ‘Long Short-Term Memory Architectures: Towards a Superlative Tech Stock Price Forecasting Model for Sustainable Economic Prosperity’, In Proceedings of The 9th International Conference for Young Researchers in Economics and Business (ICYREB), 
+ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94, UEH Publishing House. [Link to Proceeding](https://drive.google.com/file/d/1XiUSEfra9VufPb-QYQs_l5Nc1UtGMXXd/view) [Preprint](https://www.researchgate.net/publication/376721876_Long_Short-Term_Memory_Architectures_Towards_a_Superlative_Tech_Stock_Price_Forecasting_Model_for_Sustainable_Economic_Prosperity)
 
 - [Data Science Blog](https://medium.com/@shawhin)
