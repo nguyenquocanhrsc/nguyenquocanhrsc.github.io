@@ -51,4 +51,6 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 5. Nguyen A (2023) ‘Long Short-Term Memory Architectures: Towards a Superlative Tech Stock Price Forecasting Model for Sustainable Economic Prosperity’, In Proceedings of The 9th International Conference for Young Researchers in Economics and Business (ICYREB), _UEH Publishing House_, 
 ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://drive.google.com/file/d/1XiUSEfra9VufPb-QYQs_l5Nc1UtGMXXd/view)] [[Preprint](https://www.researchgate.net/publication/376721876_Long_Short-Term_Memory_Architectures_Towards_a_Superlative_Tech_Stock_Price_Forecasting_Model_for_Sustainable_Economic_Prosperity)]
 
-- [Data Science Blog](https://medium.com/@shawhin)
+6. Anh N (2024) 'Human 5.0: Dead without the Internet', _Spiderum: Perspectives and Debates_, accessed 31 March 2024. [[Link to article](https://spiderum.com/bai-dang/Con-Nguoi-50-Mat-mang-la-Mat-mang-jISIcBanfAMb)]
+
+- [[Github](https://github.com/TheQuantScientist)] [[LinkedIn](https://www.linkedin.com/in/andrewfinance/)] [[ORCID](https://orcid.org/0009-0008-0702-743X)] [[Google Scholar](https://scholar.google.com/citations?user=d5lDxtMAAAAJ&hl=vi)]
