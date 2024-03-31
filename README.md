@@ -17,7 +17,7 @@
 **Academic and Communication English Tutor @ Freelance (_February 2021 - November 2022_)**
 - 1:1 tutoring for 7 students  (2 Onsite and 5 Online); Taught communication English for DM&C’s Korean CEO and a Japanese.  
 - Focused on IELTS Academic training (Reading, Writing, and Speaking) and designed personalised study plans for each individual.
-- Given academic consultant to more than 200 students' work, leveraging their critical thinking and university GPA. 
+- Given academic consultant to more than 200 students' work, improving their critical thinking ability and university GPA. 
 - 100% students achieved their expected band score overall (1 Bronze medal in the National English Test for the Gifted).
 
 ## Projects
