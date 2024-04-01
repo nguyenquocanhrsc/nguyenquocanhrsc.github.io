@@ -4,7 +4,9 @@
 #### Soft Skills: MS Office, Canva, GenAI, Figma
 
 ## Biography 
-Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious data scientist and research scholar at RMIT Vietnam. Specialising in data analytics and machine learning, he's pursuing a B.Bus. in Economics & Finance and accruing 100 CPE Credits in Data Science from NASBA. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He's recognised for pioneering ML/DL models that incorporate Chaos Theory to enhance predictive accuracy. Anh is also exploring Federated Learning and advanced encryption techniques to safeguard healthcare data on Blockchain. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
+Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, 
+is an ambitious data scientist and research scholar at RMIT Vietnam. 
+Specialising in data analytics and machine learning, he's pursuing a B.Bus. in Economics & Finance and accruing 100 CPE Credits in Data Science from NASBA. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He's recognised for pioneering ML/DL models that incorporate Chaos Theory to enhance predictive accuracy. Anh is also exploring Federated Learning and advanced encryption techniques to safeguard healthcare data on Blockchain. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
 
 ## Education
 - B.Bus., Economics and Finance | RMIT Vietnam (_March 2025_)								       		
