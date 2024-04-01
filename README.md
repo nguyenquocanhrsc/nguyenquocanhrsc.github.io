@@ -15,7 +15,7 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Mined data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Experienced with ARIMA/SARIMA, Random Forest, SVR, XGBoost, CNN, LSTM, and Transformer, engineered financial datasets with technical indicators (SMA, MACD, RSI, etc.).
-- Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning models and patients for Zksnark implementation to protect healthcare data transmission.
+- Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning environments for Zksnark implementation to protect healthcare data training and transmission.
 - Pitched idea to the board, managed weekly projects and meetings, and generated mathematical reports/notations for research papers. 
 
 **Academic and Communication English Tutor @ Freelance (_February 2021 - November 2022_)**
