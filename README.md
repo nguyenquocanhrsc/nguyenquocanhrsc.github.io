@@ -1,10 +1,10 @@
-# Data Scientist
+# DATA SCIENTIST
 
 #### Technical Skills: Python, SQL, R, ML/DL, Power BI, MongoDB
 #### Soft Skills: Word, Excel, Canva, GenAI
 
 
-## Biography 
+## BIOGRAPHY  
 Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious data scientist and AI research scholar at The Business School, RMIT Vietnam. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He is recognised for pioneering predictive models that incorporate Chaos Theory to enhance forecasting accuracy. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
 
 
