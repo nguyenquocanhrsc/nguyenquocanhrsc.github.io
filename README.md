@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Power BI, MongoDB
+#### Technical Skills: Python, SQL, R, ML/DL, Blockchain, Power BI, MongoDB
 #### Soft Skills: MS Office, Canva, GenAI, Figma
 
 ## Biography 
