@@ -62,11 +62,10 @@ ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://drive.
 
 6. Anh N (2024) 'Human 5.0: Dead without the Internet', _Spiderum: Perspectives and Debates_, accessed 31 March 2024. [Link to article](https://spiderum.com/bai-dang/Con-Nguoi-50-Mat-mang-la-Mat-mang-jISIcBanfAMb)
 
-- [More about me](https://linktr.ee/anhthescientist?utm_source=linktree_profile_share&ltsid=9745143c-51d0-4e08-9aeb-3b4ae5741f8f)
 
 ## CONTACT
 - Email: [nguyenquocanh@outlook.com.au](nguyenquocanh@outlook.com.au)
-
+- [More about me](https://linktr.ee/anhthescientist?utm_source=linktree_profile_share&ltsid=9745143c-51d0-4e08-9aeb-3b4ae5741f8f)
 
 
 
