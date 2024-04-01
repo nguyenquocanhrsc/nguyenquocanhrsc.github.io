@@ -8,7 +8,9 @@
 - B.Bus., Economics and Finance | RMIT Vietnam (_March 2025_)								       		
 - CPE., Data Science | NASBA  (_April 2025_)	 	
 - IELTS 7.0 (8.0 in Listening) | IDP Education (_January 2021_)								       		
-	
+
+<link rel="stylesheet" href="/assets:img/css/custom.css">
+
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Mined data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
