@@ -1,15 +1,18 @@
 # Data Scientist
 
 #### Technical Skills: Python, SQL, R, ML/DL, Power BI, MongoDB
-#### Soft Skills: Word, Excel, Canva, GenAI, Figma
+#### Soft Skills: Word, Excel, Canva, GenAI
+
 
 ## Biography 
-Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious data scientist and research scholar at The Business School, RMIT Vietnam. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He is recognised for pioneering predictive models that incorporate Chaos Theory to enhance forecasting accuracy. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
+Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious data scientist and AI research scholar at The Business School, RMIT Vietnam. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He is recognised for pioneering predictive models that incorporate Chaos Theory to enhance forecasting accuracy. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
+
 
 ## Education
 - B.Bus., Economics and Finance | RMIT Vietnam (_March 2025_)								       		
 - CPE., Data Science | NASBA  (_April 2025_)	 	
 - IELTS 7.0 (8.0 in Listening) | IDP Education (_January 2021_)								       		
+
 
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
@@ -23,6 +26,7 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 - Focused on IELTS Academic training (Reading, Writing, and Speaking) and designed personalised study plans for each individual.
 - Gave academic consultancy to more than 200 students' work, improving their critical thinking ability and university GPA. 
 - 100% students achieved their expected band score overall (1 Bronze medal in the National English Test for the Gifted).
+
 
 ## Projects
 ### Phase Space Reconstructed Hybrid Deep Learning Model for Stock Price Forecasting
@@ -58,3 +62,10 @@ ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://drive.
 6. Anh N (2024) 'Human 5.0: Dead without the Internet', _Spiderum: Perspectives and Debates_, accessed 31 March 2024. [Link to article](https://spiderum.com/bai-dang/Con-Nguoi-50-Mat-mang-la-Mat-mang-jISIcBanfAMb)
 
 - [More about me](https://linktr.ee/anhthescientist?utm_source=linktree_profile_share&ltsid=9745143c-51d0-4e08-9aeb-3b4ae5741f8f)
+
+## Contact
+- Email: nguyenquocanh@outlook.com.au
+- LinkedIn: @andrewfinance
+
+
+
