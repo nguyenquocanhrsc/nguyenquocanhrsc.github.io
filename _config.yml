@@ -2,6 +2,6 @@ title: Nguyen Quoc Anh
 subtitle: Anh Q. Nguyen # Add your subtitle here
 logo: /assets:img/kyo.png
 description: >  # This is your short bio section
-  bio
+  Nguyen Quoc Anh (Publication name: Anh Q. Nguyen) is an emerging data scientist and a research scholar at The Business School, RMIT Vietnam, with a focus on applying advanced data analytics and machine learning to modern economics and finance. Currently pursuing a B.Bus. in Economics and Finance at RMIT Vietnam and a 100 accumulative CPE Credits in Data Science from NASBA, Anh has demonstrated his independence in cross-domain study and research, nurturing skills from CFA to BA and DS. His notable work includes developing novel ML/DL models with Chaos Theory to reduce forecasting errors in predictive modelling. He also spent his time simulating Federated Learning environment for further deployment of Zk-Snark and Homomophic Encryption to protect healthcare data (EHRs, Fitbit, CTDs, etc.).  With a passion towards an AI-driven future, Anh aims to drive innovation in algorithmic trading and data privacy for a greater digital economy. 
 show_downloads: false
 theme: jekyll-theme-minimal
