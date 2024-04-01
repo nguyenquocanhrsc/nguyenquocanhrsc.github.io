@@ -1,7 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Excel, ML/DL, Blockchain, Power BI, MongoDB
-#### Soft Skills: MS Office, Canva, GenAI, Figma
+#### Technical Skills: Python, SQL, R, ML/DL, Blockchain, Power BI, MongoDB
+#### Soft Skills: Word, Excel, Canva, GenAI, Figma
 
 ## Biography 
 Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious data scientist and research scholar at The Business School, RMIT Vietnam. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He is recognised for pioneering predictive models that incorporate Chaos Theory to enhance forecasting accuracy. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
@@ -14,9 +14,9 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 ## Work Experience
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Mined and cleaned data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
-- Experienced with ARIMA/SARIMA, Random Forest, SVR, XGBoost, CNN, LSTM, and Transformer, engineered financial datasets with SMA, MACD, RSI, etc.
+- Experienced with ARIMA/SARIMA, Random Forest, XGBoost, LSTM, and Transformer, engineered financial datasets with SMA, MACD, RSI, etc., performed A/B testing and L1/L2 regularization.  
 - Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning environments for Zksnark implementation to protect healthcare data training and transmission.
-- Pitched idea to the board, managed weekly projects and meetings, and generated mathematical reports/notations for research papers. 
+- Pitched research gap, managed weekly projects and meetings, and generated mathematical reports/notations for papers. 
 
 **Academic and Communication English Tutor @ Freelance (_February 2021 - November 2022_)**
 - 1:1 tutoring for 7 students  (2 Onsite and 5 Online); Taught communication English for DM&C’s Korean CEO and a Japanese.  
