@@ -28,7 +28,7 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 - 100% students achieved their expected band score overall (1 Bronze medal in the National English Test for the Gifted).
 
 
-## Projects
+## PROJECTS
 ### Phase Space Reconstructed Hybrid Deep Learning Model for Stock Price Forecasting
 [[Publication](https://dx.doi.org/10.2139/ssrn.4729759)] [[Poster](https://drive.google.com/file/d/17MK5haNZRQVOfrIkB0W8WmQ2xbV5spam/view)] [[Presentation](https://drive.google.com/file/d/1zX1CkDwcXVwKcjbFDhl0hmS6ljlWbj6G/view)] [[Certificate](https://drive.google.com/file/d/1iinbKE5oRFV3oaostxl5UVft7uJR7oTe/view?usp=sharing)]
 
@@ -38,7 +38,7 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 ![EEG Band Discovery](/assets:img/PSR2.png)
 
 
-## Awards and Honors
+## AWARDS AND HONORS
 - Presenter - Digital3 (D3) International Conference, Fall 2023
 - RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
 - RMIT Showcase: Impact - Online School Showcase, Spring 2024
@@ -46,7 +46,7 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 - Peer Reviewer - Annals of Operation Research Journal (Q1-2024)
 
 
-## Publications
+## PUBLICATIONS
 
 1. Nguyen A, Ha S, and Phien N (2024) ‘A Lightweight Multi-Head Attention Transformer for Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-16, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729648)
 
@@ -63,9 +63,9 @@ ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://drive.
 
 - [More about me](https://linktr.ee/anhthescientist?utm_source=linktree_profile_share&ltsid=9745143c-51d0-4e08-9aeb-3b4ae5741f8f)
 
-## Contact
-- **Email:** nguyenquocanh@outlook.com.au
-- LinkedIn: @andrewfinance
+## CONTACT
+- Email: [nguyenquocanh@outlook.com.au](nguyenquocanh@outlook.com.au)
+
 
 
 
