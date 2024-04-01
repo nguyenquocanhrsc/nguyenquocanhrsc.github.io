@@ -8,13 +8,13 @@
 Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious data scientist and AI research scholar at The Business School, RMIT Vietnam. Anh excels in interdisciplinary study, blending finance, business analysis, and data science (from CFA to BA and DS). He is recognised for pioneering predictive models that incorporate Chaos Theory to enhance forecasting accuracy. His goal is to leverage decentralised AI for breakthroughs in algorithmic trading and data security, contributing to a more innovative digital economy.
 
 
-## Education
+## EDUCATION
 - B.Bus., Economics and Finance | RMIT Vietnam (_March 2025_)								       		
 - CPE., Data Science | NASBA  (_April 2025_)	 	
 - IELTS 7.0 (8.0 in Listening) | IDP Education (_January 2021_)								       		
 
 
-## Work Experience
+## WORK EXPERIENCE
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Mined and cleaned data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Experienced with ARIMA/SARIMA, Random Forest, XGBoost, LSTM, and Transformer, engineered financial datasets with SMA, MACD, RSI, etc., performed A/B testing and L1/L2 regularization.  
