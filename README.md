@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, SQL, R, ML/DL, Power BI, MongoDB
 #### Soft Skills: Word, Excel, Canva, GenAI
+#### Language: Vietnamese (native) and English (native)
 
 
 ## BIOGRAPHY  
