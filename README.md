@@ -1,6 +1,5 @@
 # Data Scientist
 
-#### Publication Name: Anh Q. Nguyen 
 #### Technical Skills: Python, SQL, R, Power BI, MongoDB
 #### Soft Skills: MS Office, Canva, GenAI, Figma
 
