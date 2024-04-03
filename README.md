@@ -50,9 +50,7 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 ## PUBLICATIONS
 
 1. Nguyen A, Ha S, and Phien N (2024) ‘A Lightweight Multi-Head Attention Transformer for Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-16, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729648)
-
 2. Nguyen A and Ha S (2024) ‘Transforming Stock Price Forecasting: Deep Learning Architectures and Strategic Feature Engineering’, _SSRN Electronic Journal_, 1(1):1-14, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729146)
-
 3. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM and Time Delay Embedding: A Single-Step Hybrid Deep Learning Model for Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-21, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729187)
 
 4. Nguyen A, Ha S, and Phien N (2024) ‘CNN-BiLSTM-GRU and Phase Space Reconstruction In Retail Stock Price Forecasting’, _SSRN Electronic Journal_, 1(1):1-22, accessed 31 March 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4729759)
