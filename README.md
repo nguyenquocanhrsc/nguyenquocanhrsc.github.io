@@ -1,4 +1,4 @@
-# DATA SCIENTIST
+# Nguyen Quoc Anh 
 
 #### Technical Skills: Python, SQL, R, ML/DL, Power BI, MongoDB
 #### Soft Skills: Word, Excel, Canva, GenAI
