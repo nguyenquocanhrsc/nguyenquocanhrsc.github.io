@@ -16,6 +16,10 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 
 
 ## WORK EXPERIENCE
+**AI Systems and LLMs Trainer @ Outlier, San Francisco, California, United States (_April 2024 - Present_)**
+- Trained multiple AI bots to be proficient in Vietnamese, improved LLMs responding logic by generating highly natural prompt for multiple turns in one conversation.
+- Engineered prompts to reach the highest accuracy and rationality, surpassed ChatGPT-4 linguistic capability, leveraged copywriting skills to generate dialouges. 
+  
 **Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Mined and cleaned data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Experienced with ARIMA/SARIMA, Random Forest, XGBoost, LSTM, and Transformer, engineered financial datasets with SMA, MACD, RSI, etc., performed A/B testing and L1/L2 regularization.  
