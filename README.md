@@ -17,7 +17,7 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 
 ## WORK EXPERIENCE
 **AI Systems and LLMs Trainer @ Outlier, San Francisco, California, United States (_April 2024 - Present_)**
-- Trained multiple AI bots to be proficient in Vietnamese, improved LLMs responding logic by generating highly natural prompt for multiple turns in one conversation.
+- Trained multiple AI bots to be proficient in Vietnamese under the Bulba Project, improved LLMs responding logic by generating highly natural prompt for multiple turns in one conversation.
 - Engineered prompts to reach the highest accuracy and rationality, surpassed ChatGPT-4 linguistic capability, leveraged copywriting skills to generate human-like dialouges.
 - Monitored continuous system responses to spot errors, flagged the bugs to Team Lead for review or attempted to re-regulate the language system from scratch. 
   
