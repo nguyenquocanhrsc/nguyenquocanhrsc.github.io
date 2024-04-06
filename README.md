@@ -42,8 +42,7 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 
 
 ![EEG Band Discovery](/assets:img/PSR2.png)
-![EEG Band Discovery](/assets:img/PSR2.png)
-![EEG Band Discovery](/assets:img/PSR2.png)
+
 
 ## AWARDS AND HONORS
 - Presenter - Digital3 (D3) International Conference, Fall 2023
