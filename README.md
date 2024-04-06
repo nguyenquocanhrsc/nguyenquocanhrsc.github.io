@@ -21,7 +21,7 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 - Engineered prompts to reach the highest accuracy and rationality, surpassed ChatGPT-4 linguistic capability, leveraged copywriting skills to generate human-like dialouges.
 - Monitored continuous system responses to spot errors, flagged the bugs to Team Lead for review or attempted to re-regulate the language system from scratch. 
   
-**Research Scholar @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
+**Collaborative Researcher @ The Business School, RMIT Vietnam, Department of Economics and Finance (_March 2023 - Present_)**
 - Mined and cleaned data from web APIs or open source and developed ML/DL-based predictive models integrating Chaos Theory that improved time series forecasting performance by over 50%.
 - Experienced with ARIMA/SARIMA, Random Forest, XGBoost, LSTM, and Transformer, engineered financial datasets with SMA, MACD, RSI, etc., performed A/B testing and L1/L2 regularization.  
 - Sub-researched on Encryption and Blockchain in data privacy, simulated Federated Learning environments for Zksnark implementation to protect healthcare data training and transmission.
