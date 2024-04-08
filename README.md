@@ -50,7 +50,7 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 - RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
 - RMIT Showcase: Impact - [Online School Showcase](https://www.rmitvn-showcase.com/vi/business-and-management/student-projects), Spring 2024
 - Invited Speaker - [ICEFMR-2024 Conference](https://srcmeetings.com/icefmr-2023/), Japan, Spring 2024
--  Invited Peer Reviewer - [Annals of Operation Research Journal (Q1-2024)](https://link.springer.com/journal/10479/aims-and-scope), Spring 2024
+-  Invited Peer Reviewer - [Annals of Operation Research Journal (Q1/2024)](https://link.springer.com/journal/10479/aims-and-scope), Spring 2024
 
 
 ## PUBLICATIONS
