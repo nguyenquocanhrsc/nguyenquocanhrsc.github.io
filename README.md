@@ -10,9 +10,9 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 
 
 ## EDUCATION
-- B.Bus., Economics and Finance | RMIT Vietnam 							       		
-- CPE., Data Science and Info Tech | NASBA  	
-- IELTS 7.0 (8.0 in Listening) | IDP Education 							       		
+- B.Bus., Economics and Finance | RMIT Vietnam _(March 2025)_						       		
+- CPE., Applied Data Science and AI | NASBA _(May 2025)_  	
+- IELTS 7.0 (8.0 in Listening) | IDP Education _(February 2021)_							       		
 
 
 ## WORK EXPERIENCE
