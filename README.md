@@ -45,12 +45,12 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 
 
 ## AWARDS AND HONORS
-- Presenter - Digital3 (D3) International Conference, HCMC, Fall 2023
+- Presenter - [Digital3 (D3) International Conference](https://www.rmit.edu.vn/events/all-events/2023/october-2023/rmit-vietnam-digital3-conference/schedule), HCMC, Fall 2023
 - Presenter - [ICYREB International Conference](https://ueh.edu.vn/en/news/annual-international-conference-for-young-researchers-of-economics-business-schools-2023-icyreb-2023-70990), UEH, Fall 2023
 - RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
-- RMIT Showcase: Impact - Online School Showcase, Spring 2024
-- Invited Speaker - ICEFMR-2024 Conference, Japan, Spring 2024
-- Peer Reviewer - Annals of Operation Research Journal (Q1-2024), Spring 2024
+- RMIT Showcase: Impact - [Online School Showcase](https://www.rmitvn-showcase.com/vi/business-and-management/student-projects), Spring 2024
+- Invited Speaker - [ICEFMR-2024 Conference](https://srcmeetings.com/icefmr-2023/), Japan, Spring 2024
+-  Invited Peer Reviewer - [Annals of Operation Research Journal (Q1-2024)](https://link.springer.com/journal/10479/aims-and-scope), Spring 2024
 
 
 ## PUBLICATIONS
