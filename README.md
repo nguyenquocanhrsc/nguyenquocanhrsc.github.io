@@ -45,8 +45,8 @@ Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and 
 
 
 ## AWARDS AND HONORS
-- Youngest Presenter - Digital3 (D3) International Conference, HCMC, Fall 2023
-- Presenter - ICYREB International Conference, UEH, Fall 2023
+- Presenter - Digital3 (D3) International Conference, HCMC, Fall 2023
+- Presenter - [ICYREB International Conference](https://ueh.edu.vn/en/news/annual-international-conference-for-young-researchers-of-economics-business-schools-2023-icyreb-2023-70990), UEH, Fall 2023
 - RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
 - RMIT Showcase: Impact - Online School Showcase, Spring 2024
 - Invited Speaker - ICEFMR-2024 Conference, Japan, Spring 2024
