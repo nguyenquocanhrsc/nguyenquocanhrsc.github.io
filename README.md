@@ -76,6 +76,6 @@ ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://drive.
 ## CONTACT
 - Email: [nguyenquocanh@outlook.com.au](mailto:nguyenquocanh@outlook.com.au)
 - [More about me](https://linktr.ee/anhthescientist?utm_source=linktree_profile_share&ltsid=9745143c-51d0-4e08-9aeb-3b4ae5741f8f)
-
+[URL=https://info.flagcounter.com/byXz][IMG]https://s01.flagcounter.com/count/byXz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL] 
 
 
