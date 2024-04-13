@@ -38,7 +38,12 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 ### Phase Space Reconstructed Hybrid Deep Learning Model for Stock Price Forecasting
 [[Publication](https://dx.doi.org/10.2139/ssrn.4729759)] [[Poster](https://drive.google.com/file/d/17MK5haNZRQVOfrIkB0W8WmQ2xbV5spam/view)] [[Presentation](https://drive.google.com/file/d/1zX1CkDwcXVwKcjbFDhl0hmS6ljlWbj6G/view)] [[Certificate](https://drive.google.com/file/d/1iinbKE5oRFV3oaostxl5UVft7uJR7oTe/view?usp=sharing)]
 
-Constructed a hybrid CNN-BiLSTM-GRU model with tailored embedding dimension and time delay for Phase Space Reconstruction to forecast stock prices of major retailers like Target (TGT), Amazon (AMZN) and Walmart (WMT). Being trained across 16,000 daily observations from different stock nature, the model significantly improved forecasting accuracy, reducing MAE by 37.2% and RMSE by 35.1%, showcasing the potential of incorporating Chaos Theory in algorithmic trading strategies. This project was accepted for presentation and abstract publication at Digital3 Conference, RMIT Experience Day (Hanoi and HCMC), and RMIT Showcase: Impact in 2023. A refined version of this project has been submitted to the IEEE.
+- Developed a hybrid CNN-BiLSTM-GRU model, optimized with tailored embedding dimensions and time delays for Phase Space Reconstruction.
+- Applied the model to forecast stock prices for major retailers including Target (TGT), Amazon (AMZN), and Walmart (WMT).
+- Utilized 16,000 daily stock data points from diverse stock categories to train the model.
+- Achieved a significant reduction in Mean Absolute Error (MAE) by 37.2% and Root Mean Square Error (RMSE) by 35.1%, demonstrating the efficacy of incorporating Chaos Theory into algorithmic trading.
+- Presented the project at the Digital3 Conference, RMIT Experience Day in Hanoi and HCMC, and RMIT Showcase: Impact in 2023.
+- A refined version of the project was submitted for publication to the IEEE.
 
 
 ![EEG Band Discovery](/assets:img/PSR2.png)
