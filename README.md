@@ -45,7 +45,6 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 - Presented the project at the Digital3 Conference, RMIT Experience Day in Hanoi and HCMC, and RMIT Showcase: Impact in 2023.
 - A refined version of the project was submitted for publication to the IEEE.
 
-
 ![EEG Band Discovery](/assets:img/PSR2.png)
 
 
