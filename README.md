@@ -55,6 +55,7 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 - RMIT Showcase: Impact - [Online School Showcase](https://www.rmitvn-showcase.com/vi/business-and-management/student-projects), Spring 2024
 - Invited Speaker - [ICEFMR-2024 Conference](https://srcmeetings.com/icefmr-2023/), Japan, Spring 2024
 -  Invited Peer Reviewer - [Annals of Operation Research Journal (Q1/2024)](https://link.springer.com/journal/10479/aims-and-scope), Spring 2024
+- Invited Peer Reviewer - [ICPR 2024](https://icpr2024.org), Spring 2024
 
 
 ## PUBLICATIONS
