@@ -54,9 +54,9 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 - RMIT Showcase: Project Love Meter Winner - Hall of Fame, RMIT Vietnam, Winter 2023
 - RMIT Showcase: Impact - [Online School Showcase](https://www.rmitvn-showcase.com/vi/business-and-management/student-projects), Spring 2024
 - Invited Speaker - [ICEFMR-2024 Conference](https://srcmeetings.com/icefmr-2023/), Japan, Spring 2024
--  Invited Peer Reviewer - [Annals of Operation Research Journal (Q1/2024)](https://link.springer.com/journal/10479/aims-and-scope), Spring 2024
+- Invited Peer Reviewer - [Annals of Operation Research Journal (Q1/2024)](https://link.springer.com/journal/10479/aims-and-scope), Spring 2024
 - Invited Peer Reviewer - [ICPR 2024](https://icpr2024.org), Spring 2024
-
+- Invited Peer Reviewer - [IEEE Access](https://ieeeaccess.ieee.org), Spring 2024
 
 ## PUBLICATIONS
 
@@ -78,6 +78,7 @@ ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://doi.or
 - January 2024 - Reviewed Q1 article for ANOR Journal of Springer Nature.
 - March 2024 - Assisted "Con Duong Xanh"  group to construct and repair roads for Truc Lam Tri Duc Zen Monastery.
 - April 2024 - Reviewed conference papers for ICPR 2024 (IAPR's flagship conference; Qualis: A1 & CORE: B)
+- May 2024 - Reviewed journal papers for IEEE Access (Q2)
 
 ## CONTACT
 - Email: [nguyenquocanh@outlook.com.au](mailto:nguyenquocanh@outlook.com.au)
