@@ -82,6 +82,7 @@ ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://doi.or
 
 ## CONTACT
 - Email: [nguyenquocanh@outlook.com.au](mailto:nguyenquocanh@outlook.com.au)
+- ORCID: [0009-0008-0702-743X](https://orcid.org/0009-0008-0702-743X)
 - [More about me](https://linktr.ee/anhthescientist?utm_source=linktree_profile_share&ltsid=9745143c-51d0-4e08-9aeb-3b4ae5741f8f)
 
 
