@@ -71,7 +71,9 @@ Nguyen Quoc Anh, also known as Anh Q. Nguyen in publications, is an ambitious da
 5. Nguyen A (2023) ‘Long Short-Term Memory Architectures: Towards a Superlative Tech Stock Price Forecasting Model for Sustainable Economic Prosperity’, _In Proceedings of The 9th International Conference for Young Researchers in Economics and Business (ICYREB)_, UEH Publishing House, 
 ISBN: 978-604-346-250-0, Vol. 2, pp. 83-94. [[Link to Proceeding](https://doi.org/10.5281/zenodo.11081926)] [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729192)]
 
-6. Anh N (2024) 'Con Người 5.0: Mất mạng là "Mất mạng"?', _Quan Điểm-Tranh Luận_, Spiderum, accessed 31 March 2024. [Link to article](https://spiderum.com/bai-dang/Con-Nguoi-50-Mat-mang-la-Mat-mang-jISIcBanfAMb)
+6. Nguyen A, Ha S, and Thai, H (2024) 'Phase Space Reconstructed Neural Ordinary Differential Equations Model for Stock Price Forecasting', _SSRN Electronic Journal_, 1(1):1-17, accessed 8 May 2024. [Link to paper](https://dx.doi.org/10.2139/ssrn.4817927)
+
+7. Anh N (2024) 'Con Người 5.0: Mất mạng là "Mất mạng"?', _Quan Điểm-Tranh Luận_, Spiderum, accessed 31 March 2024. [Link to article](https://spiderum.com/bai-dang/Con-Nguoi-50-Mat-mang-la-Mat-mang-jISIcBanfAMb)
 
 ## VOLUNTEER 
 - February 2021 to present - 20% of the Freelance income is monthly contributed to poor people and urgent cases through networking.
